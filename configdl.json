@@ -1,0 +1,17 @@
+[
+  {
+    "type": "ty_gmgm",
+    "list_page_detail": [
+      "gmgm_0.json",
+      "gmgm_1.json"
+    ]
+  },
+  {
+    "type": "ty_bbtay",
+    "list_page_detail": [
+      "albumbb_0.json",
+      "albumbb_1.json",
+      "albumbb_2.json"
+    ]
+  }
+]
