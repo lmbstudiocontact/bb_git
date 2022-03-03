@@ -246,36 +246,12 @@
     "is_public": "true"
   },
   {
-    "cauhoi": "cc gì có lông?",
-    "cautraloidung": "con căk::con công",
-    "cautraloisai": "con CEO giả chủ tịch::Vẫn Là Con CEO vì tao ghét nó::con cmm",
-    "thongbaokhitraloisai": "đáp án sai nhưng mày chọn hợp lý",
-    "thongbaokhitraloidung": "100 phần trăm mày chọn con că*",
-    "is_public": "false"
-  },
-  {
-    "cauhoi": "crush công khai ny mới thì làm gì?",
-    "cautraloidung": "xiên trếc nó::\"cho bố mày cái địa chỉ \"",
-    "cautraloisai": "khóc::rạch tay các kĩu::hỏi cr \"sao bạn lại làm như z\"",
-    "thongbaokhitraloisai": "bạn bánh bèo quá đók",
-    "thongbaokhitraloidung": "bạn giang lake phết",
-    "is_public": "false"
-  },
-  {
     "cauhoi": "Yêu Tao đi",
     "cautraloidung": "Không::ukm",
     "cautraloisai": "ừ không::tuyệt nhưng không::kẹt",
     "thongbaokhitraloisai": "..",
     "thongbaokhitraloidung": "...",
     "is_public": "true"
-  },
-  {
-    "cauhoi": "Nghĩ gì về Cuộc Sống",
-    "cautraloidung": "Thích Sống",
-    "cautraloisai": "Không Sống",
-    "thongbaokhitraloisai": "chết đi",
-    "thongbaokhitraloidung": "yêu mày",
-    "is_public": "false"
   },
   {
     "cauhoi": "Yêu tao đi",
@@ -291,14 +267,6 @@
     "cautraloisai": "3::4::5",
     "thongbaokhitraloisai": "bạn đen quá chúc bạn may mắn",
     "thongbaokhitraloidung": "bạn thật may mắn",
-    "is_public": "false"
-  },
-  {
-    "cauhoi": "hãy giải đố 1+1=???",
-    "cautraloidung": "2::2",
-    "cautraloisai": "3::4::5",
-    "thongbaokhitraloisai": "bạn đen quá chúc bạn may mắn",
-    "thongbaokhitraloidung": "bạn thật may mắn",
     "is_public": "true"
   },
   {
@@ -308,30 +276,6 @@
     "thongbaokhitraloisai": "bạn thật đen",
     "thongbaokhitraloidung": "may mắn đếy",
     "is_public": "true"
-  },
-  {
-    "cauhoi": "làm sao hết chán",
-    "cautraloidung": "chán ::chán",
-    "cautraloisai": "chán::chán::hết chán",
-    "thongbaokhitraloisai": "bạn thật đen",
-    "thongbaokhitraloidung": "may mắn đếy",
-    "is_public": "false"
-  },
-  {
-    "cauhoi": "làm sao hết chán",
-    "cautraloidung": "chán ::chán",
-    "cautraloisai": "chán::chán::hết chán",
-    "thongbaokhitraloisai": "bạn thật đen",
-    "thongbaokhitraloidung": "may mắn đếy",
-    "is_public": "false"
-  },
-  {
-    "cauhoi": "làm sao hết chán",
-    "cautraloidung": "chán ::chán",
-    "cautraloisai": "chán::chán::hết chán",
-    "thongbaokhitraloisai": "bạn thật đen",
-    "thongbaokhitraloidung": "may mắn đếy",
-    "is_public": "false"
   },
   {
     "cauhoi": "Bao lâu bán đc 1 tỉ gói mè🤣🤣",
@@ -348,14 +292,6 @@
     "thongbaokhitraloisai": "KẸT",
     "thongbaokhitraloidung": "NHỚ THỬ NHA",
     "is_public": "true"
-  },
-  {
-    "cauhoi": "ai là yandere",
-    "cautraloidung": "khùng à::yuno",
-    "cautraloisai": "rem::kkkk::k bít",
-    "thongbaokhitraloisai": "ukm",
-    "thongbaokhitraloidung": "ukm",
-    "is_public": "false"
   },
   {
     "cauhoi": "Mang vợ về cho mẹ",
@@ -388,61 +324,5 @@
     "thongbaokhitraloisai": "Dm nhé",
     "thongbaokhitraloidung": "Đẻ thêm đứa nữa",
     "is_public": "true"
-  },
-  {
-    "cauhoi": "Biết \"Teaching Feeling\" không cưng~",
-    "cautraloidung": "Biết::Ai mà biết~",
-    "cautraloisai": "??? ::Nó là cái qq gì? ::Xàm vl",
-    "thongbaokhitraloisai": "Tìm thử đi nhá~",
-    "thongbaokhitraloidung": "Có tính tải không á nè~",
-    "is_public": "false"
-  },
-  {
-    "cauhoi": "Chơi gay không bạn???",
-    "cautraloidung": "Có",
-    "cautraloisai": "Không",
-    "thongbaokhitraloisai": "Haha, cho dù trả lời có thì cũng không chơi được vì tui là nữ",
-    "thongbaokhitraloidung": "Nhưng tui là nữ, kiếm người khác đi nhá haha",
-    "is_public": "false"
-  },
-  {
-    "cauhoi": "yêu không",
-    "cautraloidung": "dell::ngủ",
-    "cautraloisai": "yêu con cac::lon::yêu",
-    "thongbaokhitraloisai": "lêu lêu",
-    "thongbaokhitraloidung": "haha",
-    "is_public": "false"
-  },
-  {
-    "cauhoi": "Bạn có ngu không?",
-    "cautraloidung": "đúng rồi, chẳng có ai thông minh 100%::ai biết, phải học đã",
-    "cautraloisai": "không::Không::KHÔNG, HỎI CÁI LÒN",
-    "thongbaokhitraloisai": "lêu lêu",
-    "thongbaokhitraloidung": "đúng rồi",
-    "is_public": "false"
-  },
-  {
-    "cauhoi": "Yêu nhau nha",
-    "cautraloidung": "không::không, tao có ny rồi",
-    "cautraloisai": "Không:) ::dell::hỏi cái Kon cak gì vậy, tào lao vl",
-    "thongbaokhitraloisai": "à à",
-    "thongbaokhitraloidung": "☹️",
-    "is_public": "false"
-  },
-  {
-    "cauhoi": "=))",
-    "cautraloidung": "enK::ndk",
-    "cautraloisai": "djksn::djjs::J",
-    "thongbaokhitraloisai": "✌🤢",
-    "thongbaokhitraloidung": "giỏi",
-    "is_public": "false"
-  },
-  {
-    "cauhoi": "trả lời mãi không chán hả'-'??",
-    "cautraloidung": "chán",
-    "cautraloisai": "không",
-    "thongbaokhitraloisai": "hơi bị rảnh đấy",
-    "thongbaokhitraloidung": "Thế mà vẫn trả lời-.-",
-    "is_public": "false"
   }
 ]
